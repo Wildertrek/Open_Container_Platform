@@ -1,1 +1,1 @@
-# RedHat_OpenShift
+# Open Container Platform
