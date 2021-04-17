@@ -1,0 +1,6 @@
+---
+# Source: cluster-bootstrap/charts/bootstrap-project/templates/namespace.yaml
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: "aiops"
